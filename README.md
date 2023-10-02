@@ -1,7 +1,7 @@
 # Square_Root
 
 
-In this repository, you can find all code examples used in the article published in IEEE Signal Processing Magazine  :
+In this repository, you can find all code examples used in the article published in IEEE Signal Processing Magazine:
 
 *"Approximation Floating Point Square Root"*
 
